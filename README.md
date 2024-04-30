@@ -16,7 +16,7 @@ A simple tester for **ft_pritnf**.
 
 You can make original test case and check it simply.
 
-### First
+## First
 
 ```bash
 cd path/to/your/ft_printf
